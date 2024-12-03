@@ -9,7 +9,7 @@ Contribution Screenshots:
 
 Team Member: Naima Ontiveros
 
-Contribution Screenshots
+Contribution Screenshots:
 
 ![](https://i.ibb.co/410yZG5/image2.png)
 
