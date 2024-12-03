@@ -11,9 +11,9 @@ Team Member: Naima Ontiveros
 
 Contribution Screenshots
 
-![](https://ibb.co/QDxBFR1)
+![](https://i.ibb.co/410yZG5/image2.png)
 
-![](https://ibb.co/R7DmWDF)
+![](https://i.ibb.co/g6RpCR2/image.png)
 
 
 
