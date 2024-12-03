@@ -1,4 +1,4 @@
-#Team Contributions
+## Team Contributions
 
 ## We mainly used discord to upload packages because Github didn't less upload all code files and aspects of the package.
 
