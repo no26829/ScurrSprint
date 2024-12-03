@@ -1,6 +1,6 @@
 ## Team Contributions
 
-## We mainly used discord to upload packages because Github didn't less upload all code files and aspects of the package.
+## We mainly used discord to upload packages because Github didn't let us upload all the code files and aspects of each package.
 
 Team Member: Alyssa Ortiz
 
