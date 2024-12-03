@@ -13,7 +13,7 @@ Contribution Screenshots:
 
 ![](https://i.ibb.co/410yZG5/image2.png)
 
-![](https://i.ibb.co/g6RpCR2/image.png)<br>
+![](https://i.ibb.co/g6RpCR2/image.png)
 
 
 
