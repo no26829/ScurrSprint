@@ -9,7 +9,12 @@ Contribution Screenshots:
 
 Team Member: Naima Ontiveros
 
-Contribution Screenshots:
+Contribution Screenshots
+
+![](https://ibb.co/QDxBFR1)
+
+![](https://ibb.co/R7DmWDF)
+
 
 
 Team Member: Sam Cain
