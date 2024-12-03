@@ -30,3 +30,7 @@ Contribution Screenshots:
 Team Member: Daniel Minichetti
 
 Contribution Screenshots:
+
+<img src="https://i.imgur.com/T1pBqH6.jpeg" style="width: 50%; height: auto;" />
+
+<img src="https://i.imgur.com/UAmtcZD.jpeg" style="width: 50%; height: auto;" />
