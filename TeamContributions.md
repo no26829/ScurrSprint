@@ -30,6 +30,8 @@ Contribution Screenshots:
 Team Member: Tyler Austin
 
 Contribution Screenshots:
+![Screenshot 2024-12-03 110806](https://github.com/user-attachments/assets/db7e7b4d-4789-43a3-aef7-1920bb5b7225)
+![Screenshot 2024-12-03 110838](https://github.com/user-attachments/assets/6f1bee6a-d940-4922-a283-7d39a4ef911e)
 
 
 Team Member: Daniel Minichetti
