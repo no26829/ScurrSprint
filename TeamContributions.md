@@ -5,7 +5,11 @@
 Team Member: Alyssa Ortiz
 
 Contribution Screenshots:
-
+![image](contribution_images/image.png)
+![image](contribution_images/image2.png)
+![image](contribution_images/image3.png)
+![image](contribution_images/image4.png)
+Rest of contributions pushed directly to GitHub in the form of WebGL game
 
 Team Member: Naima Ontiveros
 
